@@ -1,6 +1,6 @@
 # Find Characters
 
-A simple library that adds 2 new functions, namely:
+A simple library that contains 2 new functions to help you find only certain letters in the text, large and small. The functions that are being added:
 ```lua
 -- This function is needed to search for SMALL characters in the text.
 -- @str — String in which the search will take place.
